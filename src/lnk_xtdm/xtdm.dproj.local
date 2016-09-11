@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/08/11 23:26:36.000.304,G:\workspace\LnkSys\src\lnk_xtdm\xtdm.dproj=G:\workspace\LnkSys\src\lnk_xtdm\lnkDll.dproj</Transaction>
+    <Transaction>2014/08/11 23:27:12.000.218,G:\workspace\LnkSys\src\lnk_xtdm\uXtdmMain.dfm=G:\workspace\LnkSys\src\lnk_xtdm\uDllMain.dfm</Transaction>
+    <Transaction>2014/08/11 23:27:12.000.218,G:\workspace\LnkSys\src\lnk_xtdm\uXtdmMain.pas=G:\workspace\LnkSys\src\lnk_xtdm\uDllMain.pas</Transaction>
+    <Transaction>2014/08/11 23:27:35.000.253,G:\workspace\LnkSys\src\lnk_xtdm\uXtdmSub.dfm=G:\workspace\LnkSys\src\lnk_xtdm\uDllSub.dfm</Transaction>
+    <Transaction>2014/08/11 23:27:35.000.253,G:\workspace\LnkSys\src\lnk_xtdm\uXtdmSub.pas=G:\workspace\LnkSys\src\lnk_xtdm\uDllSub.pas</Transaction>
+  </Transactions>
+</BorlandProject>

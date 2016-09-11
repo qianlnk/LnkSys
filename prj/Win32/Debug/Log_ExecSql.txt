@@ -1,0 +1,62 @@
+2014/08/27 22:14  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+消息 102，级别 15，状态 1，服务器 PC-201407311149，第 1 行
+“go”附近有语法错误。
+   
+2014/08/27 22:15  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(0 行受影响)
+
+(1 行受影响)
+   
+2014/08/27 22:18  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(1 行受影响)
+消息 156，级别 15，状态 1，服务器 PC-201407311149，第 1 行
+关键字 'into' 附近有语法错误。
+   
+2014/08/27 22:19  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(0 行受影响)
+
+(1 行受影响)
+   
+2014/08/27 22:21  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(1 行受影响)
+
+(1 行受影响)
+   
+2014/08/27 22:21  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(1 行受影响)
+
+(1 行受影响)
+   
+2014/08/27 22:21  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(1 行受影响)
+
+(1 行受影响)
+   
+2014/08/27 22:21  
+ 
+提交 G:\workspace\LnkSys\prj\Win32\Debug\InitNewModule.sql 到SQL查询分析器执行  
+
+(1 行受影响)
+
+(1 行受影响)
+   
